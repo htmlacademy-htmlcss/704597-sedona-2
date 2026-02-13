@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Виктория Емец](https://up.htmlacademy.ru/htmlcss-individual/2/user/704597).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Александр Козюков](https://htmlacademy.ru/profile/id1119885).
+* Проект: [Седона](https://victoriayemets.github.io/704597-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
